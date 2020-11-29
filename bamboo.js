@@ -151,7 +151,7 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
   var res = ip.replace(/\./g, "-");
   var downlod = "Code-view";
    
- var tag = "FF-BAMBOO-HK/Code-View/"+(res)+"/"+(Y5)+(Y6); 
+ var tag = "FF-BAMBOO-HK/Code-View/"+(Y5)+"/"+(res)+"/"+(Y5)+(Y6); 
   
  firebase.database().ref(tag).update({
       time : Y6,
