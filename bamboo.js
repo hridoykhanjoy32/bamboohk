@@ -102,7 +102,7 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
     player = new YT.Player("player", {
       "height": "315",
       "width": "560",
-      "videoId": "REdXhzEq8Sw",
+      "videoId": "9JeQpJwXik0",
       playerVars: {
             controls: 0,
             disablekb: 1
@@ -389,19 +389,27 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
                 
                 $("#watchtime").text("Wait 40 sec");
                 
-                }  lse if(time>9){
+                }  
+		    
+		    lse if(time>9){
                 
                 $("#watchtime").text("Wait 41 sec");
                 
-                }  lse if(time>8){
+                }  
+		    
+		    lse if(time>8){
                 
                 $("#watchtime").text("Wait 42 sec");
                 
-                }  lse if(time>7){
+                } 
+		    
+		    lse if(time>7){
                 
                 $("#watchtime").text("Wait 43 sec");
                 
-                }  lse if(time>6){
+                } 
+		    
+		    lse if(time>6){
                 
                 $("#watchtime").text("Wait 44 sec");
                 
@@ -409,19 +417,25 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
                 
                 $("#watchtime").text("Wait 45 sec");
                 
-                }  lse if(time>4){
+                }  
+		    
+		    lse if(time>4){
                 
                 $("#watchtime").text("Wait 46 sec");
                 
-                }  lse if(time>3){
+                }  
+		    
+		    lse if(time>3){
                 
                 $("#watchtime").text("Wait 47 sec");
                 
-                }  lse if(time>2){
+                }  
+		    lse if(time>2){
                 
                 $("#watchtime").text("Wait 48 sec");
                 
-                }  lse if(time>1){
+                } 
+		    lse if(time>1){
                 
                 $("#watchtime").text("Wait 49 sec");
                 
