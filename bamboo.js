@@ -441,7 +441,7 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
                 
                 }  
 		    
-            eelse{
+            else{
             
             $("#watchtime").text("Play video");
             
