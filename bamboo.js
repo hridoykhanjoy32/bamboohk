@@ -102,7 +102,7 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
     player = new YT.Player("player", {
       "height": "315",
       "width": "560",
-      "videoId": "9JeQpJwXik0",
+      "videoId": "REdXhzEq8Sw",
       playerVars: {
             controls: 0,
             disablekb: 1
