@@ -203,249 +203,249 @@ location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_h
                 
                 } 
 		    
-		    lse if(time>44){
+		    else if(time>44){
                 
                 $("#watchtime").text("Wait 5 sec");
                 
                 } 
 		    
-		lse if(time>43){
+		else if(time>43){
                 
                 $("#watchtime").text("Wait 6 sec");
                 
                 }      
                 
-		 lse if(time>42){
+		 else if(time>42){
                 
                 $("#watchtime").text("Wait 7 sec");
                 
                 }  
 		    
-		    lse if(time>41){
+		    else if(time>41){
                 
                 $("#watchtime").text("Wait 8 sec");
                 
                 }  
 		    
-		    lse if(time>40){
+		    else if(time>40){
                 
                 $("#watchtime").text("Wait 9 sec");
                 
                 }  
 		    
-		    lse if(time>39){
+		    else if(time>39){
                 
                 $("#watchtime").text("Wait 10 sec");
                 
                 }  
 		    
-		    lse if(time>38){
+		    else if(time>38){
                 
                 $("#watchtime").text("Wait 11 sec");
                 
                 }  
 		    
-		    lse if(time>37){
+		    else if(time>37){
                 
                 $("#watchtime").text("Wait 12 sec");
                 
                 }  
-		    lse if(time>36){
+		    else if(time>36){
                 
                 $("#watchtime").text("Wait 13 sec");
                 
                 }  
-		    lse if(time>35){
+		    else if(time>35){
                 
                 $("#watchtime").text("Wait 14 sec");
                 
                 }  
-		    lse if(time>34){
+		    else if(time>34){
                 
                 $("#watchtime").text("Wait 15 sec");
                 
                 }  
-		    lse if(time>33){
+		    else if(time>33){
                 
                 $("#watchtime").text("Wait 16 sec");
                 
                 }  
-		    lse if(time>32){
+		    else if(time>32){
                 
                 $("#watchtime").text("Wait 17 sec");
                 
                 }  
-		    lse if(time>31){
+		    else if(time>31){
                 
                 $("#watchtime").text("Wait 18 sec");
                 
                 }  
-		    lse if(time>30){
+		    else if(time>30){
                 
                 $("#watchtime").text("Wait 19 sec");
                 
                 }  
-		    lse if(time>29){
+		    else if(time>29){
                 
                 $("#watchtime").text("Wait 20 sec");
                 
                 }  
-		    lse if(time>28){
+		    else if(time>28){
                 
                 $("#watchtime").text("Wait 21 sec");
                 
                 }  
-		    lse if(time>27){
+		    else if(time>27){
                 
                 $("#watchtime").text("Wait 22 sec");
                 
                 }  
-		    lse if(time>26){
+		    else if(time>26){
                 
                 $("#watchtime").text("Wait 23 sec");
                 
                 }  
-		    lse if(time>25){
+		    else if(time>25){
                 
                 $("#watchtime").text("Wait 24 sec");
                 
                 }  
-		    lse if(time>24){
+		    else if(time>24){
                 
                 $("#watchtime").text("Wait 25 sec");
                 
                 }  
-		    lse if(time>23){
+		    else if(time>23){
                 
                 $("#watchtime").text("Wait 26 sec");
                 
                 }  
-		    lse if(time>22){
+		    else if(time>22){
                 
                 $("#watchtime").text("Wait 27 sec");
                 
                 }  
-		    lse if(time>21){
+		    else if(time>21){
                 
                 $("#watchtime").text("Wait 28 sec");
                 
                 }  
-		    lse if(time>20){
+		    else if(time>20){
                 
                 $("#watchtime").text("Wait 29 sec");
                 
                 }  
-		    lse if(time>19){
+		    else if(time>19){
                 
                 $("#watchtime").text("Wait 30 sec");
                 
                 }  
-		    lse if(time>18){
+		    else if(time>18){
                 
                 $("#watchtime").text("Wait 31 sec");
                 
                 }  
-		    lse if(time>17){
+		    else if(time>17){
                 
                 $("#watchtime").text("Wait 32 sec");
                 
                 }  
-		    lse if(time>16){
+		    else if(time>16){
                 
                 $("#watchtime").text("Wait 33 sec");
                 
                 }  
-		    lse if(time>15){
+		    else if(time>15){
                 
                 $("#watchtime").text("Wait 34 sec");
                 
                 }  
-		    lse if(time>44){
+		    else if(time>44){
                 
                 $("#watchtime").text("Wait 35 sec");
                 
                 }  
-		    lse if(time>14){
+		    else if(time>14){
                 
                 $("#watchtime").text("Wait 36 sec");
                 
                 }  
-		    lse if(time>13){
+		    else if(time>13){
                 
                 $("#watchtime").text("Wait 37 sec");
                 
                 }  
-		    lse if(time>12){
+		    else if(time>12){
                 
                 $("#watchtime").text("Wait 38 sec");
                 
                 }  
-		    lse if(time>11){
+		    else if(time>11){
                 
                 $("#watchtime").text("Wait 39 sec");
                 
                 }  
-		    lse if(time>10){
+		    else if(time>10){
                 
                 $("#watchtime").text("Wait 40 sec");
                 
                 }  
 		    
-		    lse if(time>9){
+		    else if(time>9){
                 
                 $("#watchtime").text("Wait 41 sec");
                 
                 }  
 		    
-		    lse if(time>8){
+		    else if(time>8){
                 
                 $("#watchtime").text("Wait 42 sec");
                 
                 } 
 		    
-		    lse if(time>7){
+		    else if(time>7){
                 
                 $("#watchtime").text("Wait 43 sec");
                 
                 } 
 		    
-		    lse if(time>6){
+		    else if(time>6){
                 
                 $("#watchtime").text("Wait 44 sec");
                 
-                }  lse if(time>5){
+                }  else if(time>5){
                 
                 $("#watchtime").text("Wait 45 sec");
                 
                 }  
 		    
-		    lse if(time>4){
+		    else if(time>4){
                 
                 $("#watchtime").text("Wait 46 sec");
                 
                 }  
 		    
-		    lse if(time>3){
+		    else if(time>3){
                 
                 $("#watchtime").text("Wait 47 sec");
                 
                 }  
-		    lse if(time>2){
+		    else if(time>2){
                 
                 $("#watchtime").text("Wait 48 sec");
                 
                 } 
-		    lse if(time>1){
+		    else if(time>1){
                 
                 $("#watchtime").text("Wait 49 sec");
                 
                 }  
 		    
-            else{
+            eelse{
             
             $("#watchtime").text("Play video");
             
-            }    
+            }        
                 
             }, 100);
         }
