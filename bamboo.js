@@ -26,7 +26,7 @@ firebase.initializeApp(config);
 function drv1() {  
   
   
-  location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/ff_mod/ff-mod-v2.apk";
+  location.href = "https://drive.google.com/file/d/1KdoCnbPz6uSFwrVTQMKYgzbuUnRYQDUn/view";
 	  
 
     var d = new Date();
