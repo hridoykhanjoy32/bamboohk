@@ -20,7 +20,74 @@ $.getJSON("https://api.ipify.org?format=json",
 firebase.initializeApp(config);
 
    
+
+
+
+function drv1() {  
+  
+  
+  location.href = "https://drive.google.com/file/d/1KdoCnbPz6uSFwrVTQMKYgzbuUnRYQDUn/view";
+	  
+
+    var d = new Date();
+         var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+         var m = months[d.getMonth()];
+         var e = d.getFullYear();
+         var n = d.getDate();
+         var h = d.getHours();
+         var mi = d.getMinutes();
+         var s = d.getSeconds();
+  
+  var Y5 = (m)+" "+(n)+" "+(e);
+  var Y6 = (h)+"h "+(mi)+"m "+(s)+"s";
+ var ip = document.getElementById('ip').value; 
+  var res = ip.replace(/\./g, "-");
+  
+   var downlod = "Drive";
+ var tag = "FF-BAMBOO-HK/Downlod1/"+(Y5)+"/"+(res)+"/"+(Y5)+(Y6); 
+  
+ firebase.database().ref(tag).update({
+      time : Y6,
+	  date : Y5,
+	  ip : ip,
+	  downlod: downlod,
+  });
+    
+  }
       
+
+function drc1() {  
+  
+  
+  location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/ff_mod/ff-mod-v2.apk";
+	  
+
+    var d = new Date();
+         var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+         var m = months[d.getMonth()];
+         var e = d.getFullYear();
+         var n = d.getDate();
+         var h = d.getHours();
+         var mi = d.getMinutes();
+         var s = d.getSeconds();
+  
+  var Y5 = (m)+" "+(n)+" "+(e);
+  var Y6 = (h)+"h "+(mi)+"m "+(s)+"s";
+ var ip = document.getElementById('ip').value; 
+  var res = ip.replace(/\./g, "-");
+  
+   var downlod = "Drive";
+ var tag = "FF-BAMBOO-HK/Downlod1/"+(Y5)+"/"+(res)+"/"+(Y5)+(Y6); 
+  
+ firebase.database().ref(tag).update({
+      time : Y6,
+	  date : Y5,
+	  ip : ip,
+	  downlod: downlod,
+  });
+    
+  }
+
 
   
   function drv() {  
@@ -58,7 +125,7 @@ firebase.initializeApp(config);
   
 function drc() {  
 	  
-location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/HakingApps/FF_Bamboo_hk.apk";
+location.href = "https://foldeoxft9myz1jsw6as1a-on.drv.tw/ff_mod/FF_Bamboo_hk.apk";
 
     var d = new Date();
          var months = ["January","February","March","April","May","June","July","August","September","October","November","December"];
